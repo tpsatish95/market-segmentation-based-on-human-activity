@@ -1,0 +1,60 @@
+Region 1
+Area 0 -> defaultdict(<class 'int'>, {1: 188, 2: 95, 3: 96, 4: 143, 5: 163, 6: 158})
+Top3 Actvities
+WALKING -> 188
+STANDING -> 163
+LAYING -> 158
+Area 1 -> defaultdict(<class 'int'>, {1: 121, 2: 114, 3: 107, 4: 249, 5: 283, 6: 250})
+Top3 Actvities
+STANDING -> 283
+LAYING -> 250
+SITTING -> 249
+
+Region 2
+Area 0 -> defaultdict(<class 'int'>, {1: 116, 2: 53, 3: 92, 4: 94, 5: 107, 6: 100})
+Top3 Actvities
+WALKING -> 116
+STANDING -> 107
+LAYING -> 100
+Area 1 -> defaultdict(<class 'int'>, {1: 63, 2: 60, 3: 53, 4: 138, 5: 163, 6: 85})
+Top3 Actvities
+STANDING -> 163
+SITTING -> 138
+LAYING -> 85
+
+Region 3
+Area 0 -> defaultdict(<class 'int'>, {1: 142, 2: 73, 3: 72, 4: 176, 5: 188, 6: 192})
+Top3 Actvities
+LAYING -> 192
+STANDING -> 188
+SITTING -> 176
+Area 1 -> defaultdict(<class 'int'>, {1: 58, 2: 53, 3: 51, 4: 140, 5: 147, 6: 113})
+Top3 Actvities
+STANDING -> 147
+SITTING -> 140
+LAYING -> 113
+
+Region 4
+Area 0 -> defaultdict(<class 'int'>, {1: 81, 2: 73, 3: 67, 4: 212, 5: 231, 6: 179})
+Top3 Actvities
+STANDING -> 231
+SITTING -> 212
+LAYING -> 179
+Area 1 -> defaultdict(<class 'int'>, {1: 320, 2: 171, 3: 182, 4: 324, 5: 323, 6: 366})
+Top3 Actvities
+LAYING -> 366
+SITTING -> 324
+STANDING -> 323
+
+Region 5
+Area 0 -> defaultdict(<class 'int'>, {1: 163, 2: 106, 3: 109, 4: 143, 5: 158, 6: 164})
+Top3 Actvities
+LAYING -> 164
+WALKING -> 163
+STANDING -> 158
+Area 1 -> defaultdict(<class 'int'>, {1: 56, 2: 57, 3: 52, 4: 146, 5: 143, 6: 108})
+Top3 Actvities
+SITTING -> 146
+STANDING -> 143
+LAYING -> 108
+[Finished in 2.4s]
